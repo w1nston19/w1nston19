@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-You can contact me here:
+You can contact me here: 
+
 [LinkedIn](https://www.linkedin.com/in/mihail-z-552502200/)
 
-![facebook-brands](Pictures/facebook-brands.svg)[Facebook](https://www.facebook.com/mihail.zonev)
+[Facebook](https://www.facebook.com/mihail.zonev)
 <!--
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
