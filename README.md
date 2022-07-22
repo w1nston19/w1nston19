@@ -3,7 +3,7 @@
 You can contact me here:
 [LinkedIn](https://www.linkedin.com/in/mihail-z-552502200/)
 
-@ icon- "fa-brands fa-facebook"[Facebook](https://www.facebook.com/mihail.zonev)
+![facebook-brands](Pictures/facebook-brands.svg)[Facebook](https://www.facebook.com/mihail.zonev)
 <!--
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
